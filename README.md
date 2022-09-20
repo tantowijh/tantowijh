@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/static/v1?label=WP&message=WordPress&color=red&logo=WordPress">
 </div>
 
+<br>
+<br>
+
 <div align="center">
   <a href="https://github.com/tantowijh">
     <img src="https://github-readme-stats.vercel.app/api?username=tantowijh&hide_border=true&show_icons=true&theme=radical" alt="tantowijh's github stats">   </a>
