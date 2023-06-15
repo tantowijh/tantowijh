@@ -15,10 +15,10 @@
 <br>
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/tantowijh">
     <img src="https://github-readme-stats.vercel.app/api?username=tantowijh&hide_border=true&show_icons=true&theme=radical" alt="tantowijh's github stats">   </a>
-</div>
+</div> -->
 
 
 
