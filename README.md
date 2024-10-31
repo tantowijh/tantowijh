@@ -20,11 +20,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tantowijh&label=Profile%20views&color=0e75b6&style=flat" alt="tantowijh" /> </p>
 
-- 🔭 I’m currently working on **Something** <!--[Music Playlist - College Project](https://github.com/tantowijh/Music-Playlist)-->
 
 - 🌱 I’m currently learning **Frameworks, Java, etc**
-
-- 🤝 I’m looking for help with **Java, Python,**
 
 - ⚡ Fun fact **Cool and Funny**
 
@@ -55,7 +52,7 @@
 
 <div align="center">
 
-   **Stats**                 | **Top Languages**         | **Streaks**
+   ****                 | **Streaks**         | ****
   :-------------------------:|:-------------------------:|:-------------------------:
- <img src="https://readme-stats-tantowijh.vercel.app/api?username=tantowijh&show_icons=true&locale=en" alt="tantowijh" /> | <img src="https://readme-stats-tantowijh.vercel.app/api/top-langs/?username=tantowijh&show_icons=true&locale=en" width="330px"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=tantowijh&" alt="tantowijh" />
+  T | <img src="https://github-readme-streak-stats.herokuapp.com/?user=tantowijh&" alt="tantowijh" /> | J
 </div>
